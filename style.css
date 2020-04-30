@@ -1,0 +1,91 @@
+body{
+    background-color: rgb(255, 255, 255);
+    color: #362929;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 1.5rem;
+  }
+  table{
+    position: absolute;
+    left: 0px;
+    width: 50%;
+    border:0px;
+    font-size: 1.2rem;
+    margin-left: 4rem;
+    margin-top: 2em;
+    border-spacing: 1rem 0.2rem;
+    width: fit-content;
+    cursor: pointer;
+  }
+  .kara{
+    border:0px;
+    margin: 1rem;
+    font-size: 1.2rem;
+    width: fit-content;
+    cursor: default;
+  }
+  td{
+    text-align: right;
+    width: 0.5em;
+    height: 1em;
+    border: 1px solid rgb(107, 107, 100);
+    border-radius:4px;
+    padding: 9px;
+  }
+  .name{
+    /* color: burlywood; */
+    text-align: right;
+  }
+  .con{
+    background-color: rgb(187, 186, 231);
+  }
+  .reco{
+    background-color:rgb(180, 214, 200)
+  }
+  .act{
+    background-color:rgb(221, 191, 221)
+  }
+  .dea{
+    background-color: rgb(223, 161, 161);
+  }
+  #covid{
+    text-align: center;
+    margin-left: 3rem;
+    margin-top: 4rem;
+    font-size: 3rem;
+    width: fit-content;
+    padding: 0.4em;
+    background-color:rgb(101, 206, 209);
+    border-radius: 12px;
+  }  
+  .st{
+    margin: 0.4em;
+    border-radius: 12px;
+    padding: 0.4em;
+    width: fit-content;
+    text-align: center;
+    font-size: 2em;
+  }
+  .data{
+    margin-top: 2rem;
+    margin-left: 0.2rem;
+  }
+  .all{
+    /* margin-top: 2em; */
+    position: absolute;
+    right: 0px;
+    width: 50%;
+  }
+  .action{
+    margin-top: 2em;
+    margin-left: 4rem;
+    color: rgb(72, 96, 119);
+  }
+  .left{
+    position: absolute;
+    left: 0px;
+    width: 50%;
+  }
+  img{
+    margin-top: 2rem;
+    margin-left: 12rem;
+  }
